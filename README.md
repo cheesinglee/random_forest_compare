@@ -4,11 +4,11 @@ random_forest_compare
 Comparison of 4 random forest packages
 
 ## Depedencies
-Python 2.7
-scikit-learn (depends on numpy)
-memory_profiler
-R
-WiseRF
+* Python 2.7
+* scikit-learn (depends on numpy)
+* memory_profiler
+* R
+* WiseRF
 
 ## Configuration
 Make your environment aware of your BigML credentials per [this procedure](http://bigml.readthedocs.org/en/latest/#authentication).
